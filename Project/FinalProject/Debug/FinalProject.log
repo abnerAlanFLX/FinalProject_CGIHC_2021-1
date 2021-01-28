@@ -1,27 +1,28 @@
-﻿  main.cpp
-c:\users\abner\source\repos\project1\finalproject\finalproject\include\shader_m.h(44): warning C4101: 'e': variable local sin referencia
-c:\users\abner\source\repos\project1\finalproject\finalproject\include\modelanim.h(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\include\modelanim.h(520): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(837): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(838): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(842): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(843): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(845): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(846): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\abner\source\repos\project1\finalproject\finalproject\main.cpp(854): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-glfw3.lib(context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(init.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(input.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(monitor.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(vulkan.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(window.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(win32_init.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(win32_time.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_thread.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(win32_window.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(egl_context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontr¾ PDB 'glfw.pdb' con 'glfw3.lib(osmesa_context.obj)' o en 'C:\Users\Abner\source\repos\Project1\FinalProject\Debug\glfw.pdb'; se vincularß el objeto sin tener en cuenta informaci¾n de depuraci¾n
-  FinalProject.vcxproj -> C:\Users\Abner\source\repos\Project1\FinalProject\Debug\FinalProject.exe
+﻿  glad.c
+  main.cpp
+c:\users\abner\desktop\finalproject\project\finalproject\include\shader_m.h(44): warning C4101: 'e': variable local sin referencia
+c:\users\abner\desktop\finalproject\project\finalproject\include\modelanim.h(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\include\modelanim.h(520): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(837): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(838): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(842): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(843): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(845): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(846): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\abner\desktop\finalproject\project\finalproject\main.cpp(854): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(context.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(init.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(vulkan.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(vulkan.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_init.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_init.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_monitor.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_time.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_time.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_thread.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_thread.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(wgl_context.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(egl_context.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(osmesa_context.obj)' o en 'C:\Users\Abner\Desktop\FinalProject\Project\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  FinalProject.vcxproj -> C:\Users\Abner\Desktop\FinalProject\Project\Debug\FinalProject.exe
